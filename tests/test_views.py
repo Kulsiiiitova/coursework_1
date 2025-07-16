@@ -8,7 +8,6 @@ from scr.views import (get_cashback, get_greetings, get_info_card, get_json_answ
 
 @pytest.fixture
 def transaction_test():
-    """Фикстура с корректными тестовыми данными"""
     return pd.DataFrame(
         {
             "Дата операции": [
