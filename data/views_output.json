@@ -1,0 +1,74 @@
+{
+    "greeting": "Доброй ночи",
+    "cards": [
+        {
+            "last_digits": "5195",
+            "total_spent": 1841.08,
+            "cashback": 15.0
+        }
+    ],
+    "top_transactions": [
+        {
+            "date": "05.06.2025",
+            "amount": 2000.0,
+            "category": "Переводы",
+            "description": "Перевод между счетами"
+        },
+        {
+            "date": "02.06.2025",
+            "amount": 406.86,
+            "category": "Проценты",
+            "description": "Проценты на остаток"
+        },
+        {
+            "date": "02.06.2025",
+            "amount": 67.0,
+            "category": "Бонусы",
+            "description": "Кэшбэк за обычные покупки"
+        },
+        {
+            "date": "04.06.2025",
+            "amount": -55.0,
+            "category": "Различные товары",
+            "description": "Fix Price"
+        },
+        {
+            "date": "05.06.2025",
+            "amount": -99.0,
+            "category": "Экосистема Яндекс",
+            "description": "Яндекс Плюс"
+        }
+    ],
+    "currency_rates": [
+        {
+            "currency": "USD",
+            "rate": 77.993331
+        },
+        {
+            "currency": "EUR",
+            "rate": 90.645619
+        }
+    ],
+    "stock_prices": [
+        {
+            "stock": "AAPL",
+            "price": "209.27499"
+        },
+        {
+            "stock": "AMZN",
+            "price": "226.53500"
+        },
+        {
+            "stock": "GOOGL",
+            "price": "182.18500"
+        },
+        {
+            "stock": "MSFT",
+            "price": "506.12000"
+        },
+        {
+            "stock": "TSLA",
+            "price": "311.35501"
+        }
+    ]
+}
